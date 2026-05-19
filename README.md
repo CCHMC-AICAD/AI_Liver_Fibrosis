@@ -11,4 +11,8 @@ This repository hosts the codebase and trained models used for liver fibrosis pr
 - **Clinical features**
 - **Multimodal / fused models**
 
+<img width="1402" height="1487" alt="image" src="https://github.com/user-attachments/assets/956b0c14-0824-4d74-b46d-5b0171b64054" />
+
+
+
 The project can be adapted for binary or multi-class fibrosis classification, depending on label definition and dataset configuration.
