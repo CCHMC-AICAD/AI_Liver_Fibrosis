@@ -1,0 +1,3 @@
+[submodule "RadCLIP"]
+	path = RadCLIP
+	url = https://github.com/luzhixiu/RadCLIP/
